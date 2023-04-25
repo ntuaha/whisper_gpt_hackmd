@@ -2,7 +2,7 @@
 
 The goal of this project is to convert audio files into verbatim transcripts using Whisper, and then output the summarized transcripts to HackMD.
 
-For execution instructions, please refer to the Jupyter Notebook directly.
+For execution instructions, please refer to the [Jupyter Notebook](https://github.com/ntuaha/whisper_gpt_hackmd/blob/main/whisper_gpt_hackmd.ipynb) directly.
 
 ## Prerequisites
 
