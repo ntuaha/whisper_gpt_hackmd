@@ -17,9 +17,9 @@ https://hackmd.io/yk_8Al9jT6201gx89OrClw
 
 ## Getting Started
 
-1. Set up your OpenAI or Azure OpenAI token and HackMD token in the environment variables or in the Jupyter Notebook
+1. Set up your OpenAI or Azure OpenAI token and HackMD token in the Jupyter Notebook
 2. Run the Jupyter Notebook on Google Colab with GPU enabled
-3. Follow the instructions in the Jupyter Notebook to convert your audio files to verbatim transcripts and output them to HackMD
+3. Follow the instructions in the Jupyter Notebook to convert your audio files to transcripts and output them to HackMD
 
 ## Contributing
 
